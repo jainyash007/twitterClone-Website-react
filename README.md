@@ -1,3 +1,4 @@
+Implemented features of twitter in this cloned version, using React Twitter Embed Component of Node Package Manager build using React, Material UI, CSS3 and Firebase.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
